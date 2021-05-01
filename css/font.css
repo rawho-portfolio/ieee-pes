@@ -1,0 +1,47 @@
+@font-face {
+    font-family: rahulmono;
+    src: url('../font/ttf/JetBrainsMono-Regular.ttf');
+}
+  
+@font-face {
+    font-family: rahulmono;
+    src: url('../font/ttf/JetBrainsMono-Bold.ttf');
+    font-weight: bold;
+}
+  
+
+@font-face {
+    font-family: rahulmono;
+    src: url('../font/ttf/JetBrainsMono-ExtraLight.ttf');
+    font-weight: 100;
+}
+  
+
+@font-face {
+    font-family: rahulmono;
+    src: url('../font/ttf/JetBrainsMono-Light.ttf');
+    font-weight: 200;
+}
+  
+
+
+@font-face {
+    font-family: rahulmono;
+    src: url('../font/ttf/JetBrainsMono-ExtraBold.ttf');
+    font-weight: bolder;
+}
+  
+
+
+@font-face {
+    font-family: rahulmono;
+    src: url('../font/ttf/JetBrainsMono-Medium.ttf');
+    font-weight: 400;
+}
+  
+
+@font-face {
+    font-family: rahulmono;
+    src: url('../font/ttf/JetBrainsMono-Regular.ttf');
+}
+  
